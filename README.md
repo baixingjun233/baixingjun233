@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baixingjun233
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 📫 How to reach me baixingjun233@163.com
+- 📫 Reach me for baixingjun233@163.com
 - I'love you!
 
 <!---
